@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ed91cdf.css",
-    "main.js": "/static/js/main.0b1815cb.js",
-    "static/js/787.8e064251.chunk.js": "/static/js/787.8e064251.chunk.js",
+    "main.css": "/static/css/main.b11ff10a.css",
+    "main.js": "/static/js/main.09cca7a3.js",
+    "static/js/787.b150fe22.chunk.js": "/static/js/787.b150fe22.chunk.js",
     "static/media/c2.png": "/static/media/c2.583795a69582907dee82.png",
     "static/media/Schoolpic.png": "/static/media/Schoolpic.5e91536fc8d0a705ff00.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -33,18 +33,16 @@
     "static/media/Pic1.png": "/static/media/Pic1.eb5655827b503c82ad1d.png",
     "static/media/undraw_team_re_0bfe 1.png": "/static/media/undraw_team_re_0bfe 1.fd540c27eeb09abf2291.png",
     "static/media/Img.png": "/static/media/Img.d46db934ab5d721323c3.png",
+    "static/media/icareer.png": "/static/media/icareer.d915d37b644016fa6b9c.png",
     "static/media/Pic3.png": "/static/media/Pic3.349932e8d5f4b0e6c33c.png",
-    "static/media/undraw_team_spirit_re_yl1v 1.png": "/static/media/undraw_team_spirit_re_yl1v 1.5cd0950b56ff34b16790.png",
-    "static/media/undraw_team_collaboration_re_ow29 1.png": "/static/media/undraw_team_collaboration_re_ow29 1.26de2fd0fdadb3723c8b.png",
     "static/media/undraw_subscribe_vspl 1.png": "/static/media/undraw_subscribe_vspl 1.9e61ecc750d08caf183b.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.1ed91cdf.css.map": "/static/css/main.1ed91cdf.css.map",
-    "main.0b1815cb.js.map": "/static/js/main.0b1815cb.js.map",
-    "787.8e064251.chunk.js.map": "/static/js/787.8e064251.chunk.js.map"
+    "main.b11ff10a.css.map": "/static/css/main.b11ff10a.css.map",
+    "main.09cca7a3.js.map": "/static/js/main.09cca7a3.js.map",
+    "787.b150fe22.chunk.js.map": "/static/js/787.b150fe22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed91cdf.css",
-    "static/js/main.0b1815cb.js"
+    "static/css/main.b11ff10a.css",
+    "static/js/main.09cca7a3.js"
   ]
 }
