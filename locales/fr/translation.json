@@ -1,7 +1,9 @@
-
 {
+    "header.joinNow": "Adhérer maintenant",
+    "header.signin": "S'identifier",
     "landing.heading" : "Apprenez des meilleurs sans limites.",
     "landing.subheading" : "Boostez votre apprentissage avec les meilleures écoles et éducateurs.",
+    "landing.free" : "Essayer gratuitement",
     "landing.joinNow" : "Adhérer maintenant",
     "landing.signin" : "S'identifier",
     "landing.unique" : "Ce qui nous rend uniques",
@@ -14,6 +16,7 @@
     "landing.jee" : "JEE",
     "landing.explore" : "EXPLORER",
     "landing.view" : "VOIR",
+    "landing.alumni": "Anciens élèves de l'IIT Delhi, de l'Université Shiv Nadar et de l'Université de Stanford",
     "landing.faq" : "FAQ",
     "landing.faq1" : "Qu'est-ce qu'Ariceum?",
     "landing.ans1" : "Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod Lorem ipsum dolor sit amet ",
@@ -22,5 +25,21 @@
     "landing.faq3" : "Combien coûte Ariceum ?",
     "landing.ans3" : "Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod Lorem ipsum dolor sit amet ",
     "landing.faq4" : "Quelle est la rigueur des cours Ariceum ?",
-    "landing.ans4" : "Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod Lorem ipsum dolor sit amet "
+    "landing.ans4" : "Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod Lorem ipsum dolor sit amet ",
+    "landing.start": "Commencez à apprendre aujourd'hui",
+    "footer.learnMore": "Apprendre encore plus",
+    "footer.courses": "Cours",
+    "footer.partner": "Partenaire",
+    "footer.pricing": "Tarification",
+    "footer.aboutUs": "À propos de nous",
+    "footer.about": "Sur",
+    "footer.team": "Équipe",
+    "footer.careers": "Carrières",
+    "footer.educators": "Éducateurs",
+    "footer.privacy": "Vie privée",
+    "footer.privacyPolicy": "Politique de confidentialité",
+    "footer.tnc": "Termes et conditions",
+    "footer.contactUs": "Nous contacter",
+    "footer.followUs": "Suivez nous",
+    "footer.copyright": "2022 Ariceum, Inc. Tous droits réservés."
 }

@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.80db139f.css",
-    "main.js": "/static/js/main.302acdbb.js",
-    "static/js/787.b150fe22.chunk.js": "/static/js/787.b150fe22.chunk.js",
+    "main.css": "/static/css/main.a74df332.css",
+    "main.js": "/static/js/main.bbde1163.js",
+    "static/js/787.8e064251.chunk.js": "/static/js/787.8e064251.chunk.js",
     "static/media/c2.png": "/static/media/c2.583795a69582907dee82.png",
-    "static/media/Schoolpic.png": "/static/media/Schoolpic.5e91536fc8d0a705ff00.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.1944c8d1a118759a4435.ttf",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
@@ -14,7 +13,6 @@
     "static/media/Merriweather-Bold.ttf": "/static/media/Merriweather-Bold.7b45103bea0f9642b818.ttf",
     "static/media/c1.png": "/static/media/c1.f560a13a68b05cbb461f.png",
     "static/media/JEE.png": "/static/media/JEE.c79da7147a1ec2fa5c52.png",
-    "static/media/Untitled 1.png": "/static/media/Untitled 1.34ecdd6e2563f0d85337.png",
     "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.29d0602f3c74d2be2107.ttf",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.987ab5111b87d67e6f6e.ttf",
     "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.7cedccda2feb66b96d7a.ttf",
@@ -22,25 +20,29 @@
     "static/media/ICSE.png": "/static/media/ICSE.ede4d4761a03c1df6dee.png",
     "static/media/CBSE.png": "/static/media/CBSE.6879b0984292bf945e2b.png",
     "static/media/person.png": "/static/media/person.a9cbbd02b7cf46157f56.png",
+    "static/media/IITD.png": "/static/media/IITD.8049a28a61c8d2533d2c.png",
     "static/media/explore.png": "/static/media/explore.0059d0e1077296c6f241.png",
     "static/media/undraw_agreement_re_d4dv 1.png": "/static/media/undraw_agreement_re_d4dv 1.6be9cab8ce989fb49aaf.png",
-    "static/media/story.png": "/static/media/story.d3ecf8422141c488313e.png",
-    "static/media/vision1.png": "/static/media/vision1.9a5433397772a20befd9.png",
+    "static/media/story.png": "/static/media/story.6d1af81459bcb57e3183.png",
+    "static/media/vision1.png": "/static/media/vision1.ddb176edfc03f70f9217.png",
     "static/media/ComDesc.png": "/static/media/ComDesc.13640d947517934f34cf.png",
     "static/media/undraw_team_re_0bfe 1.png": "/static/media/undraw_team_re_0bfe 1.fd540c27eeb09abf2291.png",
     "static/media/Pic2.png": "/static/media/Pic2.b3e37e329a956018bd37.png",
     "static/media/Pic1.png": "/static/media/Pic1.46b9925dce6e7abde0bf.png",
-    "static/media/Img.png": "/static/media/Img.d46db934ab5d721323c3.png",
+    "static/media/SU.png": "/static/media/SU.5f76639f6572acf4a281.png",
+    "static/media/u3.png": "/static/media/u3.1e6313e1be816ba4ac00.png",
     "static/media/icareer.png": "/static/media/icareer.d915d37b644016fa6b9c.png",
+    "static/media/SNU.png": "/static/media/SNU.917b39351f34c4b2041e.png",
+    "static/media/u2.png": "/static/media/u2.ee7f554478f0c1dae378.png",
     "static/media/undraw_subscribe_vspl 1.png": "/static/media/undraw_subscribe_vspl 1.9e61ecc750d08caf183b.png",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.80db139f.css.map": "/static/css/main.80db139f.css.map",
-    "main.302acdbb.js.map": "/static/js/main.302acdbb.js.map",
-    "787.b150fe22.chunk.js.map": "/static/js/787.b150fe22.chunk.js.map"
+    "main.a74df332.css.map": "/static/css/main.a74df332.css.map",
+    "main.bbde1163.js.map": "/static/js/main.bbde1163.js.map",
+    "787.8e064251.chunk.js.map": "/static/js/787.8e064251.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80db139f.css",
-    "static/js/main.302acdbb.js"
+    "static/css/main.a74df332.css",
+    "static/js/main.bbde1163.js"
   ]
 }
